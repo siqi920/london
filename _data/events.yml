@@ -1,0 +1,52 @@
+- title: What makes a good mentor?
+  subtitle: Panel Discussion
+  date: March 08, 2023
+  format: online
+  index: 0
+  description: The Panel Discussion “What makes a good mentor?” was centred around essential topics such as effective communication, establishing clear expectations, providing guidance and delivering constructive feedback. The panelists, experienced mentors and experts in their fields, shared their insights on the role of mentorship, uncovering the challenges and opportunities that come with this impactful relationship. The audience actively participated in the discussion, raising thought-provoking questions and engaging in meaningful conversations.
+This event could be particularly beneficial for both first-time mentors seeking guidance to embark on their mentoring journey and experienced mentors looking to refine their approaches.
+  links:
+    - youtube: https://www.youtube.com/watch?v=AuDyfjDr9rA
+    - meetup: https://www.meetup.com/women-who-code-london/events/291487877
+  enabled: true
+
+- title: How to get the most out of Mentorship Program?
+  subtitle: Panel Discussion
+  date: July 7, 2022
+  format: online
+  index: 1
+  description: Announce the mentorship program 3.0! During our session, we will present you with the background of our mentorship program, what to expect and how you can register as a mentor or a mentee! We will wrap up an event with a panel discussion where experienced mentors will share insights and answer your questions
+  links:
+    - youtube: https://www.youtube.com/watch?v=AuDyfjDr9rA
+    - meetup: https://www.meetup.com/women-who-code-london/events/286468360
+  enabled: false
+
+- title: A Simple Approach to Thinking about Career Goals
+  date: January 20, 2022
+  format: online
+  index: 4
+  description: This presentation introduces a way to explore possibilities of where you want to grow, define what you want to focus on now, break down your goal, and achieve your goal over a series of small steps.
+  links:
+    - youtube: https://www.youtube.com/watch?v=r8BlBJlWuoM
+    - meetup: https://www.meetup.com/women-who-code-london/events/283175447/
+  enabled: false
+
+- title: Mentorship Programme 2.0 Kickoff
+  date: September 30, 2021
+  format: online
+  index: 2
+  description: WWCode London is excited to invite you to the official kick-off of our Mentorship Programme 2.0.
+  links:
+    - youtube: https://www.youtube.com/watch?v=x2PJ0v_lAlM
+    - meetup: https://www.meetup.com/women-who-code-london/events/280821455/
+  enabled: false
+
+- title: How to start? Practical Tips from experienced mentors
+  date: March 11, 2021
+  format: online
+  index: 3
+  description: We, at Women Who Code, choose to challenge the fact that women are less likely to have a sponsor who advocates and opens doors for them (source leanin.org/mentor-her). One of the ways to solve this is to provide a platform for people to connect based on professional merits.
+  links:
+    - youtube: https://www.youtube.com/watch?v=VxF2Br-mZTU&list=PLVcEZG2JPVhcxbBrvAfF0I4YSme5sCYcL&index=6
+    - meetup: https://www.meetup.com/women-who-code-london/events/276567937/
+  enabled: false
