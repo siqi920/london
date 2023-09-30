@@ -1522,6 +1522,8 @@
     I am characterised by my critical thinking and a constant self-learner with creative approach to tackling intricate challenges.
   image: assets/images/mentors/55.jpeg
   languages: Russian, English
+  availability:
+    october: true
   skills:
     experience: 4-5 Years
     years: 5
