@@ -73,3 +73,7 @@ export function verifyHeaderTabs() {
 export function verifyHeaderLogo() {
   headerLocatorManager.getHeaderLogo();
 }
+
+export function goBackHomeWithLogo() {
+  headerLocatorManager.getHeaderLogo().click();
+}
