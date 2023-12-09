@@ -33,6 +33,11 @@ export function switchToPage(pageName) {
       cy.contains(pageName).click();
       cy.url().should('include', '/london/ad-hoc-timeline');
       break;
+    case 'STUDY GROUP':
+      headerLocatorManager.getHowItWorksTab().click();
+      cy.contains(pageName).click();
+      cy.url().should('include', '/london/study-group');
+      break;
     case 'CODE OF CONDUCT':
       headerLocatorManager.getHowItWorksTab().click();
       cy.contains(pageName).click();
