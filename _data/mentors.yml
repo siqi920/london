@@ -1653,3 +1653,28 @@
     extra: Resume review; Agile Methodologies; Introduction to Java, Spring Framework and Kafka; SQL; OOP; Software Development Lifecycle.
   network:
     - linkedin: https://www.linkedin.com/in/claudialsm/
+
+    - name: Claudia Lee
+  disabled: false
+  hours: 2
+  position: Backend Java Software Engineer, Lloyds Banking Group
+  type: long-term
+  index: 53
+  location: London, United Kingdom
+  bio: |
+    I have around 3 years of experience in IT. I am currently working as a Backend Java Software Engineer (Java, Spring, Kafka). Previously I worked as a data analyst (Python, SQL, Power BI) and graduated from Accounting and Finance.
+  image: assets/images/mentors/57.jpg
+  languages: English
+  skills:
+    experience: 1-2 Years
+    years: 2
+    mentee: Someone who's still new to the industry and would either like to get into tech or grow from beginner to mid.
+    areas:
+      - Backend Developer
+    languages: Java
+    focus:
+      - Switch career to IT
+      - Grow from beginner to mid-level
+    extra: Resume review; Agile Methodologies; Introduction to Java, Spring Framework and Kafka; SQL; OOP; Software Development Lifecycle.
+  network:
+    - linkedin: https://www.linkedin.com/in/claudialsm/
