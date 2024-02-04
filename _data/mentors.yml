@@ -1655,7 +1655,7 @@
     - linkedin: https://www.linkedin.com/in/claudialsm/
 
 - name: Neha Garg
-  disabled: false
+  disabled: true
   hours: 3
   position: Graduate Teaching Assistant, University of Regina
   type: Both
@@ -1707,7 +1707,7 @@
     - linkedin: https://www.linkedin.com/in/neha-garg-7739bb18/
 
 - name: Artem Rashev
-  disabled: false
+  disabled: true
   hours: 5 
   position: Head of Engineering, Menai Financial Group
   type: Both
@@ -1740,7 +1740,7 @@
       - linkedin: https://www.linkedin.com/in/artemrashev/
 
 - name: Olga Ponkratova
-  disabled: false
+  disabled: true
   hours: 3
   position: Software engineer android, Meta
   type: Long-term mentorship (one cycle from 04.2023 until 10.2023)
@@ -1776,7 +1776,7 @@
     - linkedin: https://www.linkedin.com/in/olgaponkratova/
 
 - name: Hersi Kopani
-  disabled: false
+  disabled: true
   hours: 5
   position: Java Software Engineer, Volvo Group
   type: Long-term mentorship (one cycle from 04.2023 until 10.2023)
@@ -1812,7 +1812,7 @@
     - linkedin: https://www.linkedin.com/in/hersi-kopani/
 
 - name: Alisa Ivanenko
-  disabled: false
+  disabled: true
   hours:  3
   position: Java Software Engineer, Mettle
   type: Long-term mentorship (one cycle from 04.2023 until 10.2023)
